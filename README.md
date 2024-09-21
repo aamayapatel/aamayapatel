@@ -27,8 +27,5 @@ As a Computer Science major with a focus on Cybersecurity, my primary goals are 
 * Secure a rewarding internship or entry-level position at a leading tech company where I can apply my knowledge and grow professionally.<br>
 * Stay at the forefront of technological advancements by continuously learning and adapting to new developments in cybersecurity.<br>
 
-## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aamayapatel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aamayapatel&icon=0&color=0)](https://visitcount.itsvg.in)
